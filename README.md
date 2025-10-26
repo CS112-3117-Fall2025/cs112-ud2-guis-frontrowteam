@@ -6,3 +6,4 @@ Our project is a simple Casino App that allows you to switch between different t
 
 ## GUI Wireframe
 
+![Screenshot 2025-10-25 133733](https://github.com/user-attachments/assets/d043680c-0a01-4967-87f4-12129e6e4c8a)
